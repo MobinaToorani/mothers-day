@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/photos/photo1.jpg",
+    "caption_en": "Our favorite memory together",
+    "caption_fa": "بهترین خاطره‌ی ما کنار هم"
+  },
+  {
+    "id": 2,
+    "image": "/photos/photo2.jpg",
+    "caption_en": "A moment I will always treasure",
+    "caption_fa": "لحظه‌ای که همیشه گنجش می‌کنم"
+  },
+  {
+    "id": 3,
+    "image": "/photos/photo3.jpg",
+    "caption_en": "Your smile lights up every room",
+    "caption_fa": "لبخندت هر اتاقی را روشن می‌کند"
+  },
+  {
+    "id": 4,
+    "image": "/photos/photo4.jpg",
+    "caption_en": "Together is my favorite place to be",
+    "caption_fa": "کنار تو بودن محبوب‌ترین جایم است"
+  },
+  {
+    "id": 5,
+    "image": "/photos/photo5.jpg",
+    "caption_en": "Every day with you is a gift",
+    "caption_fa": "هر روز کنار تو یک هدیه است"
+  },
+  {
+    "id": 6,
+    "image": "/photos/photo6.jpg",
+    "caption_en": "The love in your eyes tells the whole story",
+    "caption_fa": "عشق درون چشمانت تمام داستان را روایت می‌کند"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "icon": "🤗",
+    "reason_en": "Your Warm Hugs",
+    "reason_fa": "آغوش گرمت",
+    "description_en": "Every hug feels like coming home — safe, soft, and perfectly you.",
+    "description_fa": "هر آغوش‌ات مثل بازگشت به خانه است — امن، آرام، و کاملاً خودت."
+  },
+  {
+    "id": 2,
+    "icon": "✨",
+    "reason_en": "Your Wisdom",
+    "reason_fa": "خرد و دانش‌ات",
+    "description_en": "Your advice has always guided me through the hardest moments.",
+    "description_fa": "راهنمایی‌هایت همیشه مرا از سخت‌ترین لحظات عبور داد."
+  },
+  {
+    "id": 3,
+    "icon": "💪",
+    "reason_en": "Your Strength",
+    "reason_fa": "قدرت‌ات",
+    "description_en": "You carry so much with such quiet, beautiful grace.",
+    "description_fa": "اینقدر سختی را با وقاری آرام و زیبا تحمل می‌کنی."
+  },
+  {
+    "id": 4,
+    "icon": "😄",
+    "reason_en": "Your Laughter",
+    "reason_fa": "خنده‌ات",
+    "description_en": "Your laugh is my favorite sound in the whole world.",
+    "description_fa": "خنده‌ات محبوب‌ترین صدا در تمام دنیا برای من است."
+  },
+  {
+    "id": 5,
+    "icon": "🌹",
+    "reason_en": "Your Sacrifices",
+    "reason_fa": "فداکاری‌هایت",
+    "description_en": "Everything you gave up for us — I see it all, and I am forever grateful.",
+    "description_fa": "همه چیزی که برای ما از دست دادی — همه را می‌بینم و برای همیشه سپاسگزارم."
+  },
+  {
+    "id": 6,
+    "icon": "🍲",
+    "reason_en": "Your Cooking",
+    "reason_fa": "آشپزی‌ات",
+    "description_en": "Home is wherever the scent of your cooking fills the air.",
+    "description_fa": "خانه هرجایی است که بوی آشپزی‌ات هوا را پر می‌کند."
+  },
+  {
+    "id": 7,
+    "icon": "🕊️",
+    "reason_en": "Your Kindness",
+    "reason_fa": "مهربانی‌ات",
+    "description_en": "You find goodness in everyone — that is a rare and precious gift.",
+    "description_fa": "در همه خوبی می‌بینی — این یک هدیه‌ی نادر و ارزشمند است."
+  },
+  {
+    "id": 8,
+    "icon": "💝",
+    "reason_en": "Your Love",
+    "reason_fa": "عشق‌ات",
+    "description_en": "The way you love — endlessly, completely, without condition.",
+    "description_fa": "طریقه‌ای که دوست می‌داری — بی‌نهایت، کامل، و بی‌قید و شرط."
+  }
+]
