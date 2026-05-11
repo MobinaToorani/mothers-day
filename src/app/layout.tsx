@@ -50,7 +50,7 @@ export const metadata: Metadata = {
   description: 'A heartfelt tribute to the most wonderful mother in the world.',
   openGraph: {
     title: "Happy Mother's Day",
-    description: 'A love letter from your daughter.',
+    description: 'A heartfelt tribute in English and Persian.',
   },
 };
 

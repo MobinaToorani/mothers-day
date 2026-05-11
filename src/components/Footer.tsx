@@ -98,7 +98,6 @@ export default function Footer({ data }: { data: FooterData }) {
           <span>·</span>
         </div>
 
-        {/* Made by */}
         <motion.p
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}

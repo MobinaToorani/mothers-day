@@ -1,6 +1,6 @@
 # mothers-day
 
-A bilingual Mother's Day website I built for my mom — in both English and Persian (Farsi), with full RTL support. It's designed to feel like a digital scrapbook: warm, soft, personal, and a little dreamy.
+A bilingual Mother's Day tribute website in English and Persian (Farsi), with full RTL support. Designed to feel like a digital scrapbook: warm, soft, personal, and a little dreamy.
 
 ## What it is
 

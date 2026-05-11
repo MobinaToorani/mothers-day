@@ -14,4 +14,4 @@ On this Mother's Day and every day that follows, I want you to know: you are my 
 
 With all the love I have and more,
 
-*Your daughter* 🌸
+🌸
